@@ -4,7 +4,7 @@
   padding: 20px; /* Adds space inside the container */
   background-color: #f5f5f5; /* Light gray background for a subtle effect */
   border-radius: 8px; /* Rounds the corners of the container */
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Adds a soft shadow for a card-like appearance */
+  box-shadow: 0 2px 10px #0000001a; /* Adds a soft shadow for a card-like appearance */
 }
 
 /* Container for account information */
